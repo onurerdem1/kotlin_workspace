@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Kotlin Workspace</string>
+    <string name="app_name">Pizza</string>
     <string name="pizza">Pizza</string>
     <string name="pizzaTitle">Beef Cheese</string>
     <string name="peynirYazi">Cheese</string>
