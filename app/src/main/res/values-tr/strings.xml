@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kotlin Workspace</string>
+    <string name="pizza">Pizza</string>
+    <string name="pizzaTitle">Etli Peynirli</string>
+    <string name="peynirYazi">Peynir</string>
+    <string name="sucukYazi">Sucuk</string>
+    <string name="zeytinYazi">Zeytin</string>
+    <string name="biberYazi">Biber</string>
+    <string name="teslimatSure">20 dk</string>
+    <string name="teslimatYazi">Teslimat</string>
+    <string name="teslimatInfo">Et sever , pizzanla tanışmaya hazır ol !</string>
+    <string name="pizzaFiyat">180 TL</string>
+    <string name="butonYazi">SEPETE EKLE</string>
+</resources>
